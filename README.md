@@ -2,11 +2,13 @@
 
 Install Docker
 
-```yum install docker
+```
+yum install docker
 systemctl status docker
 systemctl start docker
 docker -v
 ```
+
 
 After cloning the repo
 
